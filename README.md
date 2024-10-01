@@ -1,5 +1,6 @@
 # Auto-Feature-Selector-FIFA19
-Using knowledge of different feature selector methods to build an Automatic Feature Selection tool.
+*Practice Project*
+### Using knowledge of different feature selector methods to build an Automatic Feature Selection tool.
 - Pearson Correlation
 - Chi-Square
 - RFE
